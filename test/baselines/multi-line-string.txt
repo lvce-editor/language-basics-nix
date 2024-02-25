@@ -1,12 +1,12 @@
-Unknown
+Text
 NewLine
 Whitespace
-CssSelector
+VariableName
 NewLine
 Whitespace
-CssSelector
+VariableName
 NewLine
 Whitespace
-CssSelector
+Keyword
 NewLine
-Unknown
+Text
