@@ -1,3 +1,9 @@
 Punctuation
-CssSelector
+Whitespace
+Numeric
+Whitespace
+Numeric
+Whitespace
+Numeric
+Whitespace
 Punctuation
