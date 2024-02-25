@@ -1,0 +1,26 @@
+{
+  "name": "builtin.language-basics-nix",
+  "version": "0.0.0-dev",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test-syntax-highlighting",
+    "dev": "node ./node_modules/@lvce-editor/server/bin/server.js ./test/cases --only-extension=."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@lvce-editor/package-extension": "^0.1.0",
+    "@lvce-editor/server": "^0.24.1",
+    "@lvce-editor/test-syntax-highlighting": "^0.3.0",
+    "execa": "^8.0.1",
+    "prettier": "^3.2.5",
+    "typescript": "^5.3.3"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  }
+}

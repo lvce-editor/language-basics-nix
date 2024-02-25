@@ -1,0 +1,13 @@
+{
+  "id": "builtin.language-basics-nix",
+  "name": "Language Basics Nix",
+  "description": "Provides syntax highlighting and bracket matching in Nix files.",
+  "languages": [
+    {
+      "id": "nix",
+      "extensions": [".nix"],
+      "tokenize": "src/tokenizeNix.js",
+      "configuration": "languageConfiguration.json"
+    }
+  ]
+}
