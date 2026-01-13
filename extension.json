@@ -5,9 +5,12 @@
   "languages": [
     {
       "id": "nix",
-      "extensions": [".nix"],
+      "extensions": [
+        ".nix"
+      ],
       "tokenize": "src/tokenizeNix.js",
       "configuration": "languageConfiguration.json"
     }
-  ]
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-nix"
 }
