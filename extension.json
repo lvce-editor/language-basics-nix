@@ -5,9 +5,7 @@
   "languages": [
     {
       "id": "nix",
-      "extensions": [
-        ".nix"
-      ],
+      "extensions": [".nix"],
       "tokenize": "src/tokenizeNix.js",
       "configuration": "languageConfiguration.json"
     }
